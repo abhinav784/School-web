@@ -434,14 +434,14 @@
     <div class="w-1/2 mt-24 px-10">
       <ul class="flex text-center space-x-8">
         <li>
-          <img class=" rounded-3xl h-72 w-64 mb-3" src="dp5.jpeg" alt="" />
+          <img class=" rounded-3xl h-72 w-64 mb-3" src="dp8.jpeg" alt="" />
           <p class="text-violet1 text-xl font-semibold">Tecia Torres</p>
           <p class="text-indigo-700 mb-3 font-semibold">Exective Director</p>
         </li>
         <li>
           <img
             class="rounded-3xl h-72 w-64 mt-20 mb-3 "
-            src="dp6.jpeg"
+            src="7.jpeg"
             alt=""
           />
           <p class="text-violet1 text-xl font-semibold">Tracy Cortez</p>
