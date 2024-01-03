@@ -1136,8 +1136,8 @@
     </div>
     <hr />
     <ul class="justify-between flex  text-violet1 px-6 py-8">
-      <li>© 2021 Bright School. All rights reserved.</li>
-      <li>Made with by Tailwind Awesome</li>
+      <li>© Bright School. All rights reserved.</li>
+      <li>.</li>
     </ul>
   </div>
 
